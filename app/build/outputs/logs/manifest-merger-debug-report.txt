@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/151ade6b91dfa881044eeeaee0365830/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/khari/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a987bd54d20892e8c03d77f0d5cfef7c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/f030f3a8b0b155162d828d7bd610006f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/983fdbce52bb7d50b4d9bfd4d1d417a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/b619ae98bd0c8321cf83274b90945b63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/7067111adfbc1b2801da39fc2cb5fb14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/8dedb82172e0239c413b49adc060edc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/57ff0e6aaeaaabebe187bdf8bd453fa4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/84a7b0f71c2242e5df2463c43e4820f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/3c5bcccb9eb29543b864c3cc7580c63e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/2b383cdcf4cfd05aaffdb249a7575aec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/6b0eefe7bb710a38558a0a68d496b619/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/1f9fcacd479d7c17cd92c1ab508bf59f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/c68717f524085b4c5f08f98b90511daf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/5b96bc469ee77c7d735b05a68e829bb5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/238249067aa354df8e9cc687140e35d2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/3b8a50564f4302abcad70d63e76bbffd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/khari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/44b15f051bf453a450edbda9100d7fef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/a61491cc0d823902fc388b933de198b1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/9441711cb24198561cd2003838016620/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/03b4686794c2d55a774a6969c0b6eb55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/d9fb394ff6d22ad2df0d536265417a32/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/khari/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2cc30dd01aa16393d6558791d3209361/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/khari/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/80ae6372514a9c023113e793b9b043ad/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/khari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0e58f7adf8b4ff6be5befdfeccbd13a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/0d9d52cf6b32ac489a78b8c46cc84ebc/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:3:5-66
+		INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/khari/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a987bd54d20892e8c03d77f0d5cfef7c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/khari/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a987bd54d20892e8c03d77f0d5cfef7c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/238249067aa354df8e9cc687140e35d2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/238249067aa354df8e9cc687140e35d2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/a61491cc0d823902fc388b933de198b1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/a61491cc0d823902fc388b933de198b1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/238249067aa354df8e9cc687140e35d2/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.kushtimusprime.androidstudiotutorialapp.MainActivity
+ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/151ade6b91dfa881044eeeaee0365830/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/151ade6b91dfa881044eeeaee0365830/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/khari/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a987bd54d20892e8c03d77f0d5cfef7c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/khari/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a987bd54d20892e8c03d77f0d5cfef7c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/f030f3a8b0b155162d828d7bd610006f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/f030f3a8b0b155162d828d7bd610006f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/983fdbce52bb7d50b4d9bfd4d1d417a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/983fdbce52bb7d50b4d9bfd4d1d417a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/b619ae98bd0c8321cf83274b90945b63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/b619ae98bd0c8321cf83274b90945b63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/7067111adfbc1b2801da39fc2cb5fb14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/7067111adfbc1b2801da39fc2cb5fb14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/8dedb82172e0239c413b49adc060edc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/8dedb82172e0239c413b49adc060edc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/57ff0e6aaeaaabebe187bdf8bd453fa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/57ff0e6aaeaaabebe187bdf8bd453fa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/84a7b0f71c2242e5df2463c43e4820f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/84a7b0f71c2242e5df2463c43e4820f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/3c5bcccb9eb29543b864c3cc7580c63e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/3c5bcccb9eb29543b864c3cc7580c63e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/2b383cdcf4cfd05aaffdb249a7575aec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/2b383cdcf4cfd05aaffdb249a7575aec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/6b0eefe7bb710a38558a0a68d496b619/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/6b0eefe7bb710a38558a0a68d496b619/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/1f9fcacd479d7c17cd92c1ab508bf59f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/1f9fcacd479d7c17cd92c1ab508bf59f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/c68717f524085b4c5f08f98b90511daf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/c68717f524085b4c5f08f98b90511daf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/5b96bc469ee77c7d735b05a68e829bb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/5b96bc469ee77c7d735b05a68e829bb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/238249067aa354df8e9cc687140e35d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/238249067aa354df8e9cc687140e35d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/3b8a50564f4302abcad70d63e76bbffd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/3b8a50564f4302abcad70d63e76bbffd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/khari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/44b15f051bf453a450edbda9100d7fef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/khari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/44b15f051bf453a450edbda9100d7fef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/a61491cc0d823902fc388b933de198b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/a61491cc0d823902fc388b933de198b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/9441711cb24198561cd2003838016620/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/9441711cb24198561cd2003838016620/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/03b4686794c2d55a774a6969c0b6eb55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/03b4686794c2d55a774a6969c0b6eb55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/d9fb394ff6d22ad2df0d536265417a32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/d9fb394ff6d22ad2df0d536265417a32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/khari/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2cc30dd01aa16393d6558791d3209361/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/khari/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2cc30dd01aa16393d6558791d3209361/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/khari/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/80ae6372514a9c023113e793b9b043ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/khari/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/80ae6372514a9c023113e793b9b043ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/khari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0e58f7adf8b4ff6be5befdfeccbd13a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/khari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0e58f7adf8b4ff6be5befdfeccbd13a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/0d9d52cf6b32ac489a78b8c46cc84ebc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/khari/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/0d9d52cf6b32ac489a78b8c46cc84ebc/AndroidManifest.xml:20:5-44
+INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/khari/AndroidStudioProjects/AndroidStudioTutorialApp/app/src/main/AndroidManifest.xml
